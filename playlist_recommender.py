@@ -5,8 +5,8 @@ import pandas as pd
 
 
 # Set your Spotify API credentials as environment variables
-os.environ["SPOTIPY_CLIENT_ID"] = '019dae7245ac49459bb07f020206a7c4'
-os.environ["SPOTIPY_CLIENT_SECRET"] = '243fa58269414cc6977815dbca6b9ef9'
+os.environ["SPOTIPY_CLIENT_ID"] = 'client ID'
+os.environ["SPOTIPY_CLIENT_SECRET"] = 'client secret'
 os.environ["SPOTIPY_REDIRECT_URI"] = 'http://localhost/3630'
 
 sp = sp.Spotify(auth_manager=SpotifyOAuth(scope="playlist-modify-public", open_browser=False))
