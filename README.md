@@ -1,2 +1,5 @@
 # Spotimix-Playlist-Maker
-A recommendation system built to create playlist on Spotify
+
+SpotiMix: Your Playlist Maker, a groundbreaking app that promises to revolutionize your music listening experience. No more searching endlessly for tracks to match your mood; SpotiMix is your musical companion, ready to create the ideal song for any occasion.
+
+For more details, check out my article on Medium
